@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\indexator_light\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C8C770-E9F6-4B1B-BC3C-6F8D0B95A306}|indexator_light\\indexator_light.pyproj|C:\\Users\\Nikita\\source\\repos\\indexator_light\\indexator_light\\indexator_light.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73C8C770-E9F6-4B1B-BC3C-6F8D0B95A306}|indexator_light\\indexator_light.pyproj|solutionrelative:indexator_light\\indexator_light.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "indexator_light.py",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\indexator_light\\indexator_light\\indexator_light.py",
+              "RelativeDocumentMoniker": "indexator_light\\indexator_light.py",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\indexator_light\\indexator_light\\indexator_light.py",
+              "RelativeToolTip": "indexator_light\\indexator_light.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-08T06:41:11.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
